@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gegendepressed" alt="gegendepressed" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **myriad of programming languages**
 
 - 📫 Here's how you can contact me **sairaj09pai@gmail.com**
 
-- ⚡ Fun fact **I love designing stuff on Canva**
+- ⚡ <a href = "instagram.com/relativescience" target="**I also have a second social media page dedicated to science**"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
