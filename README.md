@@ -8,13 +8,13 @@
 
 - 📫 Here's how you can contact me **sairaj09pai@gmail.com**
 
-- ⚡ <a href = "https://instagram.com/relativescience"> **I also have a second social media page dedicated to science! Check it out now!** </a>
+- ⚡ <a href = "https://instagram.com/relative_science"> **I also have a second social media page dedicated to science! Check it out now!** </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/relativesciencx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="relativesciencx" height="30" width="40" /></a>
 <a href="https://fb.com/sairajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sairajpai" height="30" width="40" /></a>
 <a href="https://instagram.com/the.tablaplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.tablaplayer" height="30" width="40" /></a>
-<a href="https://instagram.com/relativescience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="relativescience" height="30" width="40" /></a>
+//a href="https://instagram.com/relative_science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="relativescience" height="30" width="40" /></a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
