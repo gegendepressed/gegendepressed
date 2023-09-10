@@ -1,4 +1,4 @@
-<h3 align="center"> Hello Thgre! I am Sairaj Pai. </h3>
+<h3 align="center"> Hello There! I am Sairaj Pai. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gegendepressed&label=Profile%20views&color=0e75b6&style=flat" alt="gegendepressed" /> </p>
 
@@ -14,7 +14,6 @@
 <a href="https://twitter.com/relativesciencx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="relativesciencx" height="30" width="40" /></a>
 <a href="https://fb.com/sairajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sairajpai" height="30" width="40" /></a>
 <a href="https://instagram.com/the.tablaplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.tablaplayer" height="30" width="40" /></a>
-//a href="https://instagram.com/relative_science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="relativescience" height="30" width="40" /></a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
